@@ -13,6 +13,12 @@ This project was developed by Felipe D. because of Hire Otter Test.
 - Live (remote/api) async fetching
 - Debouncing typing
 
+## ScreenShots
+
+![Live](https://github.com/[felipe-douradinho]/react-auto-complete/blob/master/print_live.png?raw=true)
+![Dummy](https://github.com/[felipe-douradinho]/react-auto-complete/blob/master/print_dummy.png?raw=true)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
