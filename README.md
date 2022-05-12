@@ -15,8 +15,8 @@ This project was developed by Felipe D. because of Hire Otter Test.
 
 ## ScreenShots
 
-![Live](https://github.com/[felipe-douradinho]/react-auto-complete/blob/master/print_live.png?raw=true)
-![Dummy](https://github.com/[felipe-douradinho]/react-auto-complete/blob/master/print_dummy.png?raw=true)
+![Live](https://github.com/felipe-douradinho/react-auto-complete/blob/54c278b629a708369d98103b7d95aaba193aa1e8/print_live.png)
+![Dummy](https://github.com/felipe-douradinho/react-auto-complete/blob/master/print_dummy.png)
 
 
 ## Available Scripts
